@@ -14,3 +14,6 @@ A tech enthusiast. The author of the book "The Journey to DevOps". A supportive 
 
 ### ✍️ Random Dev Quote I didn't write
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=hasAnybodySeenHarry&icon=2&color=6)](https://visitcount.itsvg.in)
