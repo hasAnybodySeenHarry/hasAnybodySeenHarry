@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey, I'm Harry!
 
-I'm the author of The Journey to DevOps and, well, a software engineer with a background in cloud-native systems, Kubernetes, Terraform, and CI/CD pipelines. I’ve built apps across backend, Android, iOS, and I’m dying to help teams streamline workflows, improve security, boost development agility, and drive performance. I’m passionate about developing self-service platforms and automating processes, with a focus on optimizing software delivery and scaling infrastructure.
+I'm the author of **The Journey to DevOps** and, well, a software engineer with a background in cloud-native systems, Kubernetes, Terraform, and CI/CD pipelines. I’ve built apps across backend, Android, iOS, and I’m dying to help teams streamline workflows, improve security, boost development agility, and drive performance. I’m passionate about developing self-service platforms and automating processes, with a focus on optimizing software delivery and scaling infrastructure.
 
 
 ## 🌐 Socials:
